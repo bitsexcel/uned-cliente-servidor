@@ -1,0 +1,34 @@
+G:\uned\prog.avanzada\01-Proyecto\Proyecto\Proyecto\bin\Debug\net6.0-windows\Proyecto.exe
+G:\uned\prog.avanzada\01-Proyecto\Proyecto\Proyecto\bin\Debug\net6.0-windows\Proyecto.deps.json
+G:\uned\prog.avanzada\01-Proyecto\Proyecto\Proyecto\bin\Debug\net6.0-windows\Proyecto.runtimeconfig.json
+G:\uned\prog.avanzada\01-Proyecto\Proyecto\Proyecto\bin\Debug\net6.0-windows\Proyecto.dll
+G:\uned\prog.avanzada\01-Proyecto\Proyecto\Proyecto\bin\Debug\net6.0-windows\Proyecto.pdb
+G:\uned\prog.avanzada\01-Proyecto\Proyecto\Proyecto\obj\Debug\net6.0-windows\Proyecto.csproj.AssemblyReference.cache
+G:\uned\prog.avanzada\01-Proyecto\Proyecto\Proyecto\obj\Debug\net6.0-windows\Proyecto.Form1.resources
+G:\uned\prog.avanzada\01-Proyecto\Proyecto\Proyecto\obj\Debug\net6.0-windows\Proyecto.csproj.GenerateResource.cache
+G:\uned\prog.avanzada\01-Proyecto\Proyecto\Proyecto\obj\Debug\net6.0-windows\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+G:\uned\prog.avanzada\01-Proyecto\Proyecto\Proyecto\obj\Debug\net6.0-windows\Proyecto.AssemblyInfoInputs.cache
+G:\uned\prog.avanzada\01-Proyecto\Proyecto\Proyecto\obj\Debug\net6.0-windows\Proyecto.AssemblyInfo.cs
+G:\uned\prog.avanzada\01-Proyecto\Proyecto\Proyecto\obj\Debug\net6.0-windows\Proyecto.csproj.CoreCompileInputs.cache
+G:\uned\prog.avanzada\01-Proyecto\Proyecto\Proyecto\obj\Debug\net6.0-windows\Proyecto.dll
+G:\uned\prog.avanzada\01-Proyecto\Proyecto\Proyecto\obj\Debug\net6.0-windows\refint\Proyecto.dll
+G:\uned\prog.avanzada\01-Proyecto\Proyecto\Proyecto\obj\Debug\net6.0-windows\Proyecto.pdb
+G:\uned\prog.avanzada\01-Proyecto\Proyecto\Proyecto\obj\Debug\net6.0-windows\Proyecto.genruntimeconfig.cache
+G:\uned\prog.avanzada\01-Proyecto\Proyecto\Proyecto\obj\Debug\net6.0-windows\ref\Proyecto.dll
+C:\Users\jdaniel\Documents\Visual Studio 2022\01-1-Proyecto\Proyecto\Proyecto\bin\Debug\net6.0-windows\Proyecto.exe
+C:\Users\jdaniel\Documents\Visual Studio 2022\01-1-Proyecto\Proyecto\Proyecto\bin\Debug\net6.0-windows\Proyecto.deps.json
+C:\Users\jdaniel\Documents\Visual Studio 2022\01-1-Proyecto\Proyecto\Proyecto\bin\Debug\net6.0-windows\Proyecto.runtimeconfig.json
+C:\Users\jdaniel\Documents\Visual Studio 2022\01-1-Proyecto\Proyecto\Proyecto\bin\Debug\net6.0-windows\Proyecto.dll
+C:\Users\jdaniel\Documents\Visual Studio 2022\01-1-Proyecto\Proyecto\Proyecto\bin\Debug\net6.0-windows\Proyecto.pdb
+C:\Users\jdaniel\Documents\Visual Studio 2022\01-1-Proyecto\Proyecto\Proyecto\obj\Debug\net6.0-windows\Proyecto.csproj.AssemblyReference.cache
+C:\Users\jdaniel\Documents\Visual Studio 2022\01-1-Proyecto\Proyecto\Proyecto\obj\Debug\net6.0-windows\Proyecto.Form1.resources
+C:\Users\jdaniel\Documents\Visual Studio 2022\01-1-Proyecto\Proyecto\Proyecto\obj\Debug\net6.0-windows\Proyecto.csproj.GenerateResource.cache
+C:\Users\jdaniel\Documents\Visual Studio 2022\01-1-Proyecto\Proyecto\Proyecto\obj\Debug\net6.0-windows\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdaniel\Documents\Visual Studio 2022\01-1-Proyecto\Proyecto\Proyecto\obj\Debug\net6.0-windows\Proyecto.AssemblyInfoInputs.cache
+C:\Users\jdaniel\Documents\Visual Studio 2022\01-1-Proyecto\Proyecto\Proyecto\obj\Debug\net6.0-windows\Proyecto.AssemblyInfo.cs
+C:\Users\jdaniel\Documents\Visual Studio 2022\01-1-Proyecto\Proyecto\Proyecto\obj\Debug\net6.0-windows\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\jdaniel\Documents\Visual Studio 2022\01-1-Proyecto\Proyecto\Proyecto\obj\Debug\net6.0-windows\Proyecto.dll
+C:\Users\jdaniel\Documents\Visual Studio 2022\01-1-Proyecto\Proyecto\Proyecto\obj\Debug\net6.0-windows\refint\Proyecto.dll
+C:\Users\jdaniel\Documents\Visual Studio 2022\01-1-Proyecto\Proyecto\Proyecto\obj\Debug\net6.0-windows\Proyecto.pdb
+C:\Users\jdaniel\Documents\Visual Studio 2022\01-1-Proyecto\Proyecto\Proyecto\obj\Debug\net6.0-windows\Proyecto.genruntimeconfig.cache
+C:\Users\jdaniel\Documents\Visual Studio 2022\01-1-Proyecto\Proyecto\Proyecto\obj\Debug\net6.0-windows\ref\Proyecto.dll
