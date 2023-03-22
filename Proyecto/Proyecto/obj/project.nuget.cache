@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y3rXGMJcbP1ZcgRmtvZ9Quk+VRD6CGzgS7pe8tTlCQtfgCnBjlJx+gmtb4Zb5sCIxy/mU/Xxb8tkm9iPx/3Ojw==",
+  "dgSpecHash": "nP4rEj/sxPx7t/oLtiVzA41eSrtMe+jOSXXQ+qgUWOtxOcj1VqEnyRhtAlH2WJfT/AKNgfUUuTgIMF1xiJJmNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jdaniel\\Documents\\Visual Studio 2022\\01-1-Proyecto\\Proyecto\\Proyecto\\Proyecto.csproj",
+  "projectFilePath": "C:\\Users\\jdaniel\\Documents\\Github\\uned-cliente-servidor\\Proyecto\\Proyecto\\Proyecto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jdaniel\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
   ],
